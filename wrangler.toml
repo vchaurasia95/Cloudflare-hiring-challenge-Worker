@@ -1,0 +1,11 @@
+name = "hiring-challenge-general"
+type = "javascript"
+
+account_id = "a2dfadd91993e27a5811dd56f4485b90"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-20"
+kv_namespaces = [
+         { binding = "MAP", preview_id = "0d210e4d87c240b7bfba94532a12a5a4", id="0d210e4d87c240b7bfba94532a12a5a4" }
+]
